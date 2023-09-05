@@ -1,0 +1,24 @@
+{
+  "status": 3,
+  "classcode": "",
+  "zoom_link": "",
+  "msg": "Your account has been blocked. Check with your relationship manager",
+  "background_color": "FFEBE5",
+  "front_color": "DE350B",
+  "payment_url": "",
+  "payment_amount": "",
+  "batch_id": "146",
+  "batch_name": "27-FEB-21-CDS-ONL",
+  "course_name": "Artificial Intelligence Engineer ",
+  "is_first_class": 1,
+  "is_rating_needed": 0,
+  "upcoming_class": [],
+  "current_class": [
+    {
+      "class_id": "6",
+      "class_name": "class_cds_batch_96_5",
+      "class_date": "2022-07-27"
+    }
+  ],
+  "previous_class": []
+}

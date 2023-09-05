@@ -1,0 +1,53 @@
+{
+  "message": "successfully fetched",
+  "classroom_rating": [
+    {
+      "rating_id":"1",
+      "course_event_id": "123",
+      "course_event_start_date": "2022-02-01",
+      "course_event_start_time": "08:00:00",
+      "course_event_end_time": "10:00:00",
+      "given_rating": "2",
+      "rating_comment": "some comment ## test comment",
+      "trainer_name": "Trainer name 1",
+      "course_name": "Course 1",
+      "course_event_name": "course event name"
+    },
+    {
+      "rating_id":"1",
+      "course_event_id": "123",
+      "course_event_start_date": "2022-02-01",
+      "course_event_start_time": "08:00:00",
+      "course_event_end_time": "10:00:00",
+      "given_rating": "2",
+      "rating_comment": "",
+      "trainer_name": "Trainer name 2",
+      "course_name": "Course 2",
+      "course_event_name": "course event name 2"
+    },
+    {
+      "rating_id":"1",
+      "course_event_id": "123",
+      "course_event_start_date": "2022-02-01",
+      "course_event_start_time": "08:00:00",
+      "course_event_end_time": "10:00:00",
+      "given_rating": "0",
+      "rating_comment": "",
+      "trainer_name": "Trainer name 3",
+      "course_name": "Course 3",
+      "course_event_name": "course event name 3"
+    },
+    {
+      "rating_id":"1",
+      "course_event_id": "123",
+      "course_event_start_date": "2022-02-01",
+      "course_event_start_time": "08:00:00",
+      "course_event_end_time": "10:00:00",
+      "given_rating": "0",
+      "rating_comment": "",
+      "trainer_name": "Trainer name 4",
+      "course_name": "Course 4",
+      "course_event_name": "course event name 4"
+    }
+  ]
+}

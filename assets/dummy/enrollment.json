@@ -1,0 +1,140 @@
+{
+  "message": "successfully fetched",
+  "enrollment_data": [
+    {
+      "enrollment_id":1,
+      "bundle_event_id": 1,
+      "agreed_price": "20000",
+      "enroll_type": "test",
+      "bundle_event" :  {
+        "bundle_event_id":1,
+        "bundle_id": 1,
+        "bundle_total_duration": 20,
+        "bundle_name": "Certified Data Scientist",
+        "bundle_event_name": "20-MAR-23-BUN-CDS-WDE-ONL",
+        "course_event_details": "23,34,63,78,56",
+        "bundle_status": 1
+      }
+    },
+    {
+      "enrollment_id":1,
+      "bundle_event_id": 1,
+      "agreed_price": "20000",
+      "enroll_type": "test",
+      "bundle_event" :  {
+        "bundle_event_id":1,
+        "bundle_id": 1,
+        "bundle_total_duration": 20,
+        "bundle_name": "AI Engineer",
+        "bundle_event_name": "20-MAR-23-BUN-CDS-WDE-ONL",
+        "course_event_details": "23,34,63,78,56",
+        "bundle_status": 1
+      }
+    },
+    {
+      "enrollment_id":1,
+      "bundle_event_id": 1,
+      "agreed_price": "20000",
+      "enroll_type": "test",
+      "bundle_event" :  {
+        "bundle_event_id":1,
+        "bundle_id": 1,
+        "bundle_total_duration": 20,
+        "bundle_name": "AI Engineer",
+        "bundle_event_name": "20-MAR-23-BUN-CDS-WDE-ONL",
+        "course_event_details": "23,34,63,78,56",
+        "bundle_status": 1
+      }
+    },
+    {
+      "enrollment_id":1,
+      "bundle_event_id": 1,
+      "agreed_price": "20000",
+      "enroll_type": "test",
+      "bundle_event" :  {
+        "bundle_event_id":1,
+        "bundle_id": 1,
+        "bundle_total_duration": 20,
+        "bundle_name": "AI Engineer",
+        "bundle_event_name": "20-MAR-23-BUN-CDS-WDE-ONL",
+        "course_event_details": "23,34,63,78,56",
+        "bundle_status": 1
+      }
+    },
+    {
+      "enrollment_id":1,
+      "bundle_event_id": 1,
+      "agreed_price": "20000",
+      "enroll_type": "test",
+      "bundle_event" :  {
+        "bundle_event_id":1,
+        "bundle_id": 1,
+        "bundle_total_duration": 20,
+        "bundle_name": "AI Engineer",
+        "bundle_event_name": "20-MAR-23-BUN-CDS-WDE-ONL",
+        "course_event_details": "23,34,63,78,56",
+        "bundle_status": 1
+      }
+    },
+    {
+      "enrollment_id":1,
+      "bundle_event_id": 1,
+      "agreed_price": "20000",
+      "enroll_type": "test",
+      "bundle_event" :  {
+        "bundle_event_id":1,
+        "bundle_total_duration": 20,
+        "bundle_id": 1,
+        "bundle_name": "AI Engineer",
+        "bundle_event_name": "20-MAR-23-BUN-CDS-WDE-ONL",
+        "course_event_details": "23,34,63,78,56",
+        "bundle_status": 1
+      }
+    },
+    {
+      "enrollment_id":1,
+      "bundle_event_id": 1,
+      "agreed_price": "20000",
+      "enroll_type": "test",
+      "bundle_event" :  {
+        "bundle_event_id":1,
+        "bundle_id": 1,
+        "bundle_total_duration": 20,
+        "bundle_name": "AI Engineer",
+        "bundle_event_name": "20-MAR-23-BUN-CDS-WDE-ONL",
+        "course_event_details": "23,34,63,78,56",
+        "bundle_status": 1
+      }
+    },
+    {
+      "enrollment_id":1,
+      "bundle_event_id": 1,
+      "agreed_price": "20000",
+      "enroll_type": "test",
+      "bundle_event" :  {
+        "bundle_event_id":1,
+        "bundle_id": 1,
+        "bundle_total_duration": 20,
+        "bundle_name": "AI Engineer",
+        "bundle_event_name": "20-MAR-23-BUN-CDS-WDE-ONL",
+        "course_event_details": "23,34,63,78,56",
+        "bundle_status": 1
+      }
+    },
+    {
+      "enrollment_id":1,
+      "bundle_event_id": 1,
+      "agreed_price": "20000",
+      "enroll_type": "test",
+      "bundle_event" :  {
+        "bundle_event_id":1,
+        "bundle_id": 1,
+        "bundle_total_duration": 20,
+        "bundle_name": "AI Engineer",
+        "bundle_event_name": "20-MAR-23-BUN-CDS-WDE-ONL",
+        "course_event_details": "23,34,63,78,56",
+        "bundle_status": 1
+      }
+    }
+  ]
+}

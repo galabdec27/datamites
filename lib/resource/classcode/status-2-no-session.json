@@ -1,0 +1,18 @@
+{
+  "status": "2",
+  "classcode": "",
+  "zoom_link": "",
+  "msg": "No Active Session for You",
+  "background_color": "FFEBE5",
+  "front_color": "DE350B",
+  "payment_url": "",
+  "payment_amount": "",
+  "batch_id": "",
+  "batch_name": "",
+  "course_name": "",
+  "is_first_class": 1,
+  "is_rating_needed": "",
+  "upcoming_class": "",
+  "current_class": "",
+  "previous_class": ""
+}

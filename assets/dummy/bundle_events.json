@@ -1,0 +1,169 @@
+{
+  "message": "successfully fetched course event",
+  "course": [
+    {
+      "course_id": 12,
+      "course_title": "Course title here 1",
+      "course_description": "course_description",
+      "course_duration": 12,
+      "course_code": "course_code",
+      "brand_id": 1,
+      "has_assessment": 1,
+      "has_placement_assistance": 1,
+      "has_internship": 0,
+      "has_projects": 1,
+      "has_coding": 0,
+      "course_addon_ids": "24,45,14",
+      "course_language": "English",
+      "course_prereq_desc": "graduation",
+      "course_prereq_courses": "12,124,14",
+      "course_learning_hours": "50",
+      "course_lecture_hours": "2",
+      "course_status": 1,
+      "course_level": 3,
+      "course_price": "10000",
+      "course_price_cur": "INR",
+      "course_event": [
+        {
+          "course_event_id": 34,
+          "course_id": 12,
+          "brand_id": 1,
+          "city_id": 1,
+          "classroom_facility_id": 1,
+          "course_event_expense": 1,
+          "course_event_status": 1,
+          "course_event_name": "course_schedule_name",
+          "course_event_description": "course_event_description",
+          "course_event_duration": 1,
+          "course_event_start_date": "2022-03-25",
+          "course_event_end_date": "2022-03-25",
+          "course_event_start_time": "09:00:00",
+          "course_event_end_time": "11:00:00",
+          "course_event_type": 1,
+          "course_event_meeting_link": "",
+          "classroom_facility": [
+            {
+              "classroom_facility_id": 1,
+              "facility_name": "ABC",
+              "has_projector": 1,
+              "has_ac": 1,
+              "centre": {
+                "centre_id": 1,
+                "centre_type": 1,
+                "centre_name": "Datamites",
+                "centre_address": "Address goes here",
+                "centre_map_link": "map link here",
+                "centre_contact_name": "User name",
+                "centre_contact_email": "askdfh2gnauk@gmail.co",
+                "centre_contact_phone": "+918431667902"
+              }
+            }
+          ],
+          "trainer": [
+            {
+              "trainer_id": 1,
+              "trainer_name": "Trainer name",
+              "trainer_email": "Trainer email",
+              "trainer_phone": "8431667902"
+            }
+          ]
+        }
+
+      ]
+    },
+    {
+      "course_id": 12,
+      "course_title": "Course title here 2",
+      "course_description": "course_description 2",
+      "course_duration": 12,
+      "course_code": "course_code 2",
+      "brand_id": 1,
+      "has_assessment": 1,
+      "has_placement_assistance": 1,
+      "has_internship": 1,
+      "has_projects": 1,
+      "has_coding": 1,
+      "course_addon_ids": "24,45,14",
+      "course_language": "English",
+      "course_prereq_desc": "graduation",
+      "course_prereq_courses": "12,124,14",
+      "course_learning_hours": "40",
+      "course_lecture_hours": "2",
+      "course_status": 1,
+      "course_level": 1,
+      "course_price": "10000",
+      "course_price_cur": "INR",
+      "course_event": [
+        {
+          "course_event_id": 34,
+          "course_id": 12,
+          "brand_id": 1,
+          "city_id": 1,
+          "classroom_facility_id": 1,
+          "course_event_expense": 1,
+          "course_event_status": 1,
+          "course_event_name": "course_schedule_name",
+          "course_event_description": "course_event_description sd",
+          "course_event_duration": 1,
+          "course_event_start_date": "2022-04-25",
+          "course_event_end_date": "2022-04-25",
+          "course_event_start_time": "09:00:00",
+          "course_event_end_time": "11:00:00",
+          "course_event_type": 1,
+          "course_event_meeting_link": "https://www.google.com",
+          "classroom_facility": [
+            {
+              "classroom_facility_id": 1,
+              "facility_name": "ABC",
+              "has_projector": 1,
+              "has_ac": 1,
+              "centre": {
+                "centre_id": 1,
+                "centre_type": 1,
+                "centre_name": "Datamites",
+                "centre_address": "Address goes here",
+                "centre_map_link": "map link here",
+                "centre_contact_name": "User name",
+                "centre_contact_email": "askdfh2gnauk@gmail.co",
+                "centre_contact_phone": "+918431667902"
+              }
+            }
+          ],
+          "trainer": [
+            {
+              "trainer_id": 1,
+              "trainer_name": "Trainer name",
+              "trainer_email": "Trainer email",
+              "trainer_phone": "8431667902"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_id": 12,
+      "course_title": "Course title here 2",
+      "course_description": "course_description 2",
+      "course_duration": 12,
+      "course_code": "course_code 2",
+      "brand_id": 1,
+      "has_assessment": 1,
+      "has_placement_assistance": 1,
+      "has_internship": 1,
+      "has_projects": 1,
+      "has_coding": 1,
+      "course_addon_ids": "24,45,14",
+      "course_language": "English",
+      "course_prereq_desc": "graduation",
+      "course_prereq_courses": "12,124,14",
+      "course_learning_hours": "40",
+      "course_lecture_hours": "2",
+      "course_status": 1,
+      "course_level": 1,
+      "course_price": "10000",
+      "course_price_cur": "INR",
+      "course_event": []
+    }
+  ]
+
+}

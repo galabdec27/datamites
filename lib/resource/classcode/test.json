@@ -1,0 +1,24 @@
+{
+  "status": 1,
+  "classcode": "188475",
+  "zoom_link": "",
+  "msg": "Your session is active",
+  "background_color": "FFEBE5",
+  "front_color": "DE350B",
+  "payment_url": "",
+  "payment_amount": "",
+  "batch_id": "50",
+  "batch_name": "31-DEC-19-LMS-ALL",
+  "course_name": "Certified Data Science",
+  "is_first_class": 0,
+  "is_rating_needed": 1,
+  "upcoming_class": [],
+  "current_class": [],
+  "previous_class": [
+    {
+      "class_id": "3",
+      "class_name": "class_cds_batch_96_3",
+      "class_date": "2022-07-20"
+    }
+  ]
+}
